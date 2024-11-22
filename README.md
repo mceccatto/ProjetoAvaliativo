@@ -144,8 +144,4 @@ O sistema fornece as seguintes métricas de desempenho:
 
 ## ✒️ Autores
 
-Gustavo Henrique
-Luan Barleze
-Marcelo Ceccatto
-Matheus de Carvalho Pereira Pinto
-Nathan Pechebovicz
+Gustavo Henrique, Luan Barleze, Marcelo Ceccatto, Matheus de Carvalho Pereira Pinto, Nathan Pechebovicz
