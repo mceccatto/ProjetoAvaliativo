@@ -25,8 +25,8 @@ Este é um aplicativo web para análise e classificação de mensagens spam usan
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/spam-analyzer.git
-cd spam-analyzer
+git clone https://github.com/mceccatto/ProjetoAvaliativo.git
+cd ProjetoAvaliativo
 ```
 
 2. Crie um ambiente virtual (recomendado):
